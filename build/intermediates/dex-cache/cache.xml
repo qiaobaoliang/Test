@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03ee76a53bd38d6862234a909d2853c08f1d519">
+        <dex dex="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_220aface1f51a1568ea9964e9689720900cfc388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\libs\bmob_v3.0.8beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e8419e3dc8581a7d5814fe97ad47c4166902aa44">
+        <dex dex="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\build\intermediates\pre-dexed\debug\bmob_v3.0.8beta_3e2acf96f27a34160bad57d72ae24a7e18b36a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de3bfdeaac1a8e0bea4c4a6a5d4aa1b84055bcd">
+        <dex dex="C:\Users\Joe\AndroidStudioProjects\Bmob_Sample_fast\app\build\intermediates\pre-dexed\debug\instant-run_0a91d7984faa9a630cd8b85506ced37579a8753b.jar" />
+    </item>
+
+</items>
